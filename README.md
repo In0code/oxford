@@ -1,7 +1,7 @@
 **OXFORD | 학사 관리 Application**
 
 
-![image](https://github.com/In0code/oxford/assets/137425054/ec51b183-d054-459d-add9-1b4b218199d6)
+![image](https://github.com/In0code/oxford/assets/137425054/ec51b183-d054-459d-add9-1b4b218199d6) 
 
 
 ----------------------------------------------------------------------
