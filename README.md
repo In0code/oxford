@@ -54,6 +54,9 @@
 
 - 교수 관리 및 교수 조회 ( 담당 )
 
+    ![image](https://github.com/In0code/oxford/assets/137425054/3bf1de31-1714-4b6c-b64a-47ade83c09a4)
+
+
     ![image](https://github.com/In0code/oxford/assets/137425054/f3146e1d-bbfd-47be-92ad-4006d684616a)
 
 
