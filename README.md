@@ -8,7 +8,8 @@
 
 - 로그인
 
-    ![image](https://github.com/In0code/oxford/assets/137425054/1b0f4a60-7c37-4135-9cbd-fdbb46b18516)
+   ![image](https://github.com/In0code/oxford/assets/137425054/9c99cb3f-caf3-4eee-8a16-20496c4851bc)
+
 
 
 
@@ -23,7 +24,8 @@
 
 - 사용자 메인
 
-   ![image](https://github.com/In0code/oxford/assets/137425054/6d5244cb-265f-49b3-93ad-843c035c2707)
+   ![image](https://github.com/In0code/oxford/assets/137425054/1dfa34f3-1c72-4419-94c6-a23e9325e9e3)
+
 
 
 ----------------------------------------------------------------------
@@ -31,7 +33,8 @@
 
 - 마이 프로필
 
-   ![image](https://github.com/In0code/oxford/assets/137425054/9e2c45e9-ba92-43fc-97a1-c266c24c11ef)
+  ![image](https://github.com/In0code/oxford/assets/137425054/31c0a9d6-ea69-41c6-8f0f-a5fc81235235)
+
 
 
 
@@ -45,7 +48,8 @@
 - 관리자 메인
 
 
-    ![image](https://github.com/In0code/oxford/assets/137425054/9838cfb1-c3e3-4a51-b46b-1ff756602b12)
+   ![image](https://github.com/In0code/oxford/assets/137425054/91f9d9a3-c65f-44e9-a418-2ed88543c558)
+
 
 
 
@@ -57,14 +61,11 @@
     ![image](https://github.com/In0code/oxford/assets/137425054/3bf1de31-1714-4b6c-b64a-47ade83c09a4)
 
 
-    ![image](https://github.com/In0code/oxford/assets/137425054/f3146e1d-bbfd-47be-92ad-4006d684616a)
+    
 
 
+   ![image](https://github.com/In0code/oxford/assets/137425054/89ef3413-21b1-43db-93c2-f2422cec343f)
 
-   ![image](https://github.com/In0code/oxford/assets/137425054/211a25cf-0847-4260-81a6-57ead8b0504d)
-
-
-   ![image](https://github.com/In0code/oxford/assets/137425054/55b5f9e4-4234-4ea2-89f1-bb26f3f12430)
 
 
 
@@ -73,10 +74,12 @@
 
 - 교수 관리 -교수 등록 ( 담당 )
 
-  ![image](https://github.com/In0code/oxford/assets/137425054/e68101f6-1d2b-4d6a-a09a-9e5d4715a2e3)
+  ![image](https://github.com/In0code/oxford/assets/137425054/83c1fd7d-3b33-4f7a-a59d-1ebdaec61abc)
 
 
-  ![image](https://github.com/In0code/oxford/assets/137425054/1fe31483-eff0-41f2-a77b-a992d8f2f865)
+
+  ![image](https://github.com/In0code/oxford/assets/137425054/d133cbc5-ec18-4b7f-9064-7006dfe2928e)
+
 
 
 
@@ -85,10 +88,12 @@
 - 교수 관리 -교수 수정 ( 담당 )
 
 
-  ![image](https://github.com/In0code/oxford/assets/137425054/df4fdf19-4ff3-41d6-97ba-80d9aa097f6b)
+  ![image](https://github.com/In0code/oxford/assets/137425054/fcabbe07-d98b-4a2d-a196-f978b7342fdf)
 
 
-  ![image](https://github.com/In0code/oxford/assets/137425054/0fe2877f-a7e7-4409-96c0-96d3ffd6ed1e)
+
+  ![image](https://github.com/In0code/oxford/assets/137425054/14458f70-754d-4370-af63-93b1f45ac31d)
+
 
 
 
@@ -98,21 +103,25 @@
 - 학과 관리 목록 및 학과 조회( 담당 )
   
 
-  ![image](https://github.com/In0code/oxford/assets/137425054/0858af2e-d7dc-4be4-b195-adcf83d03fdf)
+  ![image](https://github.com/In0code/oxford/assets/137425054/975c4923-82b6-4fa2-8c13-c9b896b1820e)
 
 
 
-  ![image](https://github.com/In0code/oxford/assets/137425054/b7d8d7b4-9e5c-48fa-9788-de8d0f9bc43c)
+
+  ![image](https://github.com/In0code/oxford/assets/137425054/ac69ab52-59bb-44cb-8c4d-fb141b4f50a2)
+
 
 
 -------------------------------------------------------
 
 - 학과 관리 -학과 등록 ( 담당 )
 
-  ![image](https://github.com/In0code/oxford/assets/137425054/bba63011-61e0-4080-8728-9b42ca2ac678)
+  ![image](https://github.com/In0code/oxford/assets/137425054/1cefd512-151e-416d-82cd-c850f79e9f54)
 
 
-  ![image](https://github.com/In0code/oxford/assets/137425054/0b3b2a34-52eb-44a8-abf5-7f2497115b6e)
+
+  ![image](https://github.com/In0code/oxford/assets/137425054/c1694743-e08d-4ca8-9759-99defa12c0a0)
+
 
 
 
@@ -121,10 +130,12 @@
 - 학과 관리 -학과 수정 ( 담당 )
 
 
-  ![image](https://github.com/In0code/oxford/assets/137425054/c1a9342c-f57b-4d42-8974-b9cef58c2f68)
+  ![image](https://github.com/In0code/oxford/assets/137425054/4a5bbb3b-6db8-4251-aaa4-08a1ae8407da)
 
 
-  ![image](https://github.com/In0code/oxford/assets/137425054/25fe9250-eda7-4016-8c6f-c252747cdaba)
+
+  ![image](https://github.com/In0code/oxford/assets/137425054/3e88b1ab-b3c6-439d-bd9e-7d45f38cca8a)
+
 
 
 
@@ -134,5 +145,6 @@
 - 학생 관리
 
 
-  ![image](https://github.com/In0code/oxford/assets/137425054/e3fcdb45-e934-4364-9dea-837fc87c52db)
+ ![image](https://github.com/In0code/oxford/assets/137425054/c7038612-f2b7-4223-b4f8-ea07f1523a22)
+
 
